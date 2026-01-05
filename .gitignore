@@ -214,3 +214,5 @@ __marimo__/
 data/processed/
 
 data/dashboard/
+*.zip
+data/dashboard/
