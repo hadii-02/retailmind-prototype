@@ -216,3 +216,9 @@ data/processed/
 data/dashboard/
 *.zip
 data/dashboard/
+.env
+data/processed/*.parquet
+data/processed/llm_cache/
+data/dashboard/*.json*
+*.zip
+__pycache__/
