@@ -1,0 +1,15 @@
+# Core
+numpy
+pandas
+pyarrow
+
+# Utilities
+tqdm
+python-dotenv
+
+# ML / clustering
+scikit-learn
+sentence-transformers
+
+# OpenAI
+openai
